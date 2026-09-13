@@ -1,0 +1,6 @@
+HAM10000_images
+test_images
+train_images
+*.csv
+skin-cancer-mnist-ham10000.zip
+logs
